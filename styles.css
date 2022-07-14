@@ -1,0 +1,126 @@
+
+body{
+    background-color: #f7fad9;
+    font-family: 'Ubuntu', sans-serif;
+
+
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    margin:4rem;
+   color: black;
+    font-size: 3rem;
+}
+h4{
+    font-size: 1.2rem;
+color:black;
+}
+p{
+    font-size:.9rem;
+    color:rgb(70, 153, 70);
+    line-height: 2;
+}
+.featureimg{
+    width:300px;
+    
+}
+
+.navbar{
+
+}
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2rem;
+    font-weight: 900;
+    margin:0 1rem;
+
+
+    
+}
+.nav-item{
+    color:green;
+    font-weight: 900;
+    font-size: 0.95rem;
+  
+}
+.icecreams
+{
+    width:100%;
+    height: auto;
+}
+
+.nav-item{
+    margin:0 3rem;
+}
+
+#features{
+    text-align: center;
+    padding:4% 8%;
+}
+
+hr{
+border-top-style:dotted;
+border-width:.75rem;
+border-color:green;
+background:none;
+width:5rem;
+margin: 4rem auto;
+opacity:1;
+
+}
+
+.card{
+    background-color: rgb(234, 234, 186);
+    box-shadow:5px 8px hsl(60, 48%, 18%);
+}
+.card-body{
+padding:1rem;
+}
+
+.item{
+    width:300px;
+    margin:auto;
+    position: relative;
+    transition: 0.5s;
+    transition-timing-function:ease-in-out;
+    
+   
+
+}
+.owl-carousel:hover{
+cursor:grabbing;
+
+}
+.item:hover{
+    width:310px;
+    
+ 
+}
+#products{
+    margin:5% auto;
+    padding: 2% auto;
+    text-align:center;
+}
+
+#aboutus{
+    padding : 4% 8%;
+    text-align: center;
+    background-color: rgb(234, 234, 186);
+}
+
+
+.rights{
+    margin:2rem;
+}
+.aboutus{
+    padding: 0 8rem;
+ 
+}
+.carousel-fade{
+
+}
+
